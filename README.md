@@ -30,6 +30,8 @@ There are two datasets in the [TMDb Dataset](https://www.kaggle.com/tmdb/tmdb-mo
   - title
   - cast
   - crew
+  
+  
 **Questions we may ask about the dataset:** 
 - Do some movies from certain production companies attain more revenue when released in certain months of the year?
 - What is the trend for movies from some production companies acheieving more popularity than others?
