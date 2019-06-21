@@ -1,5 +1,5 @@
 # TMDb-movie-data
-**Data Analysis: Investigating the TMDb movie data set
+**Data Analysis: Investigating the TMDb movie data set**
 
 There are two datasets in the [TMDb Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) that provide information about 5000 movies collected from The Movie Database (TMDb) and movie credits data that includes user ratings and revenue.
 
